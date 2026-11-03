@@ -1,0 +1,12 @@
+{
+    "name": "nguemoue/centguard",
+    "description": "Scanner PHP sans dépendance qui traque l'argent stocké en float — les centimes que le checkout avale ou invente.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    },
+    "bin": [
+        "centguard.php"
+    ]
+}
